@@ -1,0 +1,1 @@
+{"returnCode":"KO","message":"Can not deserialize instance of java.util.ArrayList out of START_OBJECT token\n at [Source: org.apache.catalina.connector.CoyoteInputStream@590483c0; line: 1, column: 1]"}
